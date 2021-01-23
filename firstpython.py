@@ -1,6 +1,6 @@
 #Display the output
 
-print("New Python File")
+print("Newish Python File")
 
 d = 0
 
